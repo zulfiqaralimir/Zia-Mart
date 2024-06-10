@@ -15,7 +15,7 @@ Run this command
 ```
 git clone https://github.com/panaverse/learn-generative-ai.git
 ```
-
+Now,goto Cloned Folder, and delete ``` .git ``` file
 
 
 # Islamabad Help Desk Session 02
