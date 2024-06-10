@@ -44,6 +44,9 @@ There are two ways to do that, either
 
 * Create a Folder, or
 * Run ```poetry new product_service```
+* Create Docker File of Product_Service as a sibling of ```toml``` file (One way to copy other service's Docker file and make changes accordingly)
+* Create ```main.py``` in Product_Service Folder
+* Now add Fast API by running command ```poetry add fastapi```. It must in Parent Directory of Product Microservice. Otherwise there will be Error.
 
 # Islamabad Help Desk Session 02
 https://youtu.be/QkD7gI7bmHU
