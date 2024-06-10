@@ -17,6 +17,8 @@ git clone https://github.com/panaverse/learn-generative-ai.git
 ```
 As we need not to do Pull, So, goto Cloned Folder, and delete ``` .git ``` file
 
+Now, in you cloned folder, Go to Step 05_microservices_all_in_one_platform, then go to Step 15_event_driven and finally, to 02_kafka_messaging
+
 
 # Islamabad Help Desk Session 02
 https://youtu.be/QkD7gI7bmHU
