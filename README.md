@@ -30,5 +30,15 @@ Open ```compose``` file
 * First Run DOCKER DESKTOP, then(Docker must be installed in the system)
 * Run ```docker compose up```
 
+Once process is completed,check Your 
+*Doker Desk top for Containers
+-Postgres
+-broker
+-api 1
+-api 2
+-kafka ui
+
+
+
 # Islamabad Help Desk Session 02
 https://youtu.be/QkD7gI7bmHU
