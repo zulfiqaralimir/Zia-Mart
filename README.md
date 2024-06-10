@@ -40,5 +40,10 @@ Once process is completed,check Your
 
 # Creating First Product Microservice
 
+There are two ways to do that, either
+
+* Create a Folder, or
+* Run ```poetry new product_service```
+
 # Islamabad Help Desk Session 02
 https://youtu.be/QkD7gI7bmHU
