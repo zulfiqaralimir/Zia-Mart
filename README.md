@@ -8,7 +8,9 @@ https://www.youtube.com/watch?v=5dGNFpDTH7U
 (https://github.com/panaverse/learn-generative-ai)
 
 Make a Directory
-Inside the Directory, Enter VS Code, and Powershell Run this command
+Inside the Directory, Enter VS Code, and in Powershell 
+
+Run this command
 
 ```
 git clone https://github.com/panaverse/learn-generative-ai.git
