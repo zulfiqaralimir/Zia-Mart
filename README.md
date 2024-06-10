@@ -25,5 +25,10 @@ Now, in you cloned folder, Go to
 
 Now Open you VS Code
 
+Open ```compose``` file
+
+First Run DOCKER DESKTOP, then(Docker must be installed in the system)
+Run ```docker compose up```
+
 # Islamabad Help Desk Session 02
 https://youtu.be/QkD7gI7bmHU
