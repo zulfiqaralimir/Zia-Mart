@@ -16,3 +16,7 @@ Run this command
 git clone https://github.com/panaverse/learn-generative-ai.git
 ```
 
+
+
+# Islamabad Help Desk Session 02
+https://youtu.be/QkD7gI7bmHU
