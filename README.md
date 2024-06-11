@@ -61,7 +61,7 @@ async def root ( ):
 	return {“message”: “Product Service”}
 ```
 
-![image](https://github.com/zulfiqaralimir/Zia-Mart/assets/68346772/ee41703e-b469-4c52-bfa5-304c4a45342d)
+(https://github.com/zulfiqaralimir/Zia-Mart/assets/68346772/ee41703e-b469-4c52-bfa5-304c4a45342d)
 
 
 # Islamabad Help Desk Session 02
