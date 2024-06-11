@@ -51,5 +51,18 @@ There are two ways to do that, either
 * Do changes in Yaml file for new Product_Service
 * Then we launch its container
 
+BUILDING CONTAINER
+```
+from fastapi import FastAPI
+app = FastAPI ( )
+
+@app.get ( “/”)
+async def root ( ):
+	return {“message”: “Product Service”}
+```
+
+![image](https://github.com/zulfiqaralimir/Zia-Mart/assets/68346772/ee41703e-b469-4c52-bfa5-304c4a45342d)
+
+
 # Islamabad Help Desk Session 02
 https://youtu.be/QkD7gI7bmHU
