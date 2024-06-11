@@ -80,7 +80,8 @@ docker compose config
 ```
 docker compose up --build
 ```
-
+### If you modify your compose file without changing the code, avoid using the --build command.
+### We can also achieve this using Dev Containers since we have mapped volumes.
 
 # Islamabad Help Desk Session 02
 https://youtu.be/QkD7gI7bmHU
