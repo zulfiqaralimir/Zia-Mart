@@ -51,7 +51,7 @@ There are two ways to do that, either
 * Do changes in Yaml file for new Product_Service
 * Then we launch its container
 
-BUILDING CONTAINER
+BUILDING CONTAINER IN main.py
 ```
 from fastapi import FastAPI
 app = FastAPI ( )
@@ -66,7 +66,20 @@ On Power Shell, Run
 docker compose up -- build
 
 ```
+To verify,whether Docker Compose in valid, then go to directory 
+```
+cd .
+```
+and RUN in power Shell
+```
+docker compose config
+```
 
+## We use -- build to re-create the container up,because we have changed by add a new service
+### Even you have cloned a repository, better use command (Best Practice)
+```
+docker compose up --build
+```
 
 
 # Islamabad Help Desk Session 02
