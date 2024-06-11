@@ -84,7 +84,7 @@ docker compose up --build
 ### We can also achieve this using Dev Containers since we have mapped volumes.
 **ERROR:** Port is already allocated </span>
 
-[] One solution is to change the Port Number of New Service 
+[ ] One solution is to change the Port Number of New Service 
 Afterward, we have to use 
 ```
 docker compose up
