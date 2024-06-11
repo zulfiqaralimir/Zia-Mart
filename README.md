@@ -82,7 +82,19 @@ docker compose up --build
 ```
 ### If you modify your compose file without changing the code, avoid using the --build command.
 ### We can also achieve this using Dev Containers since we have mapped volumes.
-<span style="color: red;"> ERROR:Port is already allocated </span>
+**ERROR:** Port is already allocated </span>
+
+[] One solution is to change the Port Number of New Service 
+Afterward, we have to use 
+```
+docker compose up
+```
+Not
+```
+docker compose --build
+```
+As changes are made in compose file, not in the code
+
 
 # Islamabad Help Desk Session 02
 https://youtu.be/QkD7gI7bmHU
