@@ -76,7 +76,7 @@ docker compose config
 ```
 
 ## We use -- build to re-create the container up,because we have changed by add a new service
-### Even you have cloned a repository, better use command (Best Practice)
+** Even you have cloned a repository, better use command (Best Practice)
 ```
 docker compose up --build
 ```
