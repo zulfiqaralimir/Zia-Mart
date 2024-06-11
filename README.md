@@ -60,8 +60,13 @@ app = FastAPI ( )
 async def root ( ):
 	return {“message”: “Product Service”}
 ```
+On Power Shell, Run
+```
 
-(https://github.com/zulfiqaralimir/Zia-Mart/assets/68346772/ee41703e-b469-4c52-bfa5-304c4a45342d)
+docker compose up -- build
+
+```
+
 
 
 # Islamabad Help Desk Session 02
