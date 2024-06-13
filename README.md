@@ -108,5 +108,5 @@ https://youtu.be/QkD7gI7bmHU
 
 ![image](https://github.com/zulfiqaralimir/Zia-Mart/assets/68346772/4510e0de-a2a9-48cd-a6ef-588ee322cca5)
 
-
+* We will use PROTOBUF to serialize the data. It is speedy as compared to JSON serialized data format.
 
