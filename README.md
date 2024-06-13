@@ -103,3 +103,9 @@ As changes are made in compose file, not in the code
 
 # Islamabad Help Desk Session 02
 https://youtu.be/QkD7gI7bmHU
+
+### _in tradional style we use API to perform CRUD, Whereas in Event Drive, we use KAFKA to do same._
+
+![image](https://github.com/zulfiqaralimir/Zia-Mart/assets/68346772/dbd0849d-fc13-4281-b56f-9d0c5ac3016e)
+
+
