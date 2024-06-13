@@ -98,6 +98,7 @@ As changes are made in compose file, not in the code
 ### _Containers, such as various machines or laptops, resemble distinct entities within an isolated LINUX environment, all sharing the same host. Each container is capable of operating on port 8000. These laptops or machines coexist within the same network. Currently, our host serves as the Operating System responsible for port mapping._
 
 ### Open pg-admin and connecting New Microservice to Database
+*First step is to CONFIG the Postgress db server
 
 # Islamabad Help Desk Session 02
 https://youtu.be/QkD7gI7bmHU
