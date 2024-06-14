@@ -115,4 +115,11 @@ https://youtu.be/QkD7gI7bmHU
 
 * ![image](https://github.com/zulfiqaralimir/Zia-Mart/assets/68346772/bc34763b-a77a-46d6-937e-a7f9d76c6095)
 
+* **aiokafka** will help to conect python code to broker.
+* protobuf is here to create buffers that is binary data that is used to serialized the data.
+* In ```main.py``` we have to create AIOKafkaAdminClient.it connect Product Service to Broker port
+* As there is depend on between kafka broker and product service, there may be lag between that can cause disconnection. While loop code will be utilized to restart after certain time to handle the situation. (10 seconds)
+* Now Topic will be created in the name of Product using ```lifespane```.
+* First Topic is created and then messages comes into that topic. Producer is attached with that topic and this producer creates topics whereas Consumer consumes those messages.
+* Consumer will later perform action on those received messages like putting in db etc.
 
