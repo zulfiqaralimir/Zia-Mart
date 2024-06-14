@@ -124,5 +124,10 @@ https://youtu.be/QkD7gI7bmHU
 * Consumer will later perform action on those received messages like putting in db etc.
 * AIO Kafka will be used to create Producer (Using Dependency Injection)
 * Code will performed in DEV CONTAINER otherwise we have to update again and again.
-* 
+* *If you use JSON then we have to us 'b' as prefix to let know compiler to convert the code in serialized form, whereas in PROTOBUF, it is not the case,as PROTOBUF does it itself, skipping this step.*
+* ### What is PROTOBUF
+* ![image](https://github.com/zulfiqaralimir/Zia-Mart/assets/68346772/7ff7c087-68ec-44f2-96b0-c092a4ff76e4)
+
+* In PROTOBUF we create a Schema like Custom data type
+* In PROTOBU, OperationType, let consumer know what CRUD Operation has to be performed.
 
