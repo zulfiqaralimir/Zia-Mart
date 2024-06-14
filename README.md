@@ -130,4 +130,20 @@ https://youtu.be/QkD7gI7bmHU
 
 * In PROTOBUF we create a Schema like Custom data type
 * In PROTOBU, OperationType, let consumer know what CRUD Operation has to be performed.
+* PROTOBUF, can not be imported into main.py, as it not python code. So a compiler is used to convert it in python style
+* We will use GitHub repo to install PROTOBUF Compiler.
+* (https://github.com/protocolbuffers/protobuf)
+
+* Go to GitHub release page. In ASSETS, intall desired one.
+* Copy the Bin folder path and past it into environmental variable
+* RUN on Command
+* ```protoc --version```
+* Now We can compile PROTOBUF file into python code.
+* We to be in product_service,for that
+* ```cd product_service```
+* ```ls``` it will show, PROTO file
+* Now Run
+* ```protoc --python_out=../product.proto```
+
+* 
 
