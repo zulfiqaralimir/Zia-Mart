@@ -122,4 +122,7 @@ https://youtu.be/QkD7gI7bmHU
 * Now Topic will be created in the name of Product using ```lifespane```.
 * First Topic is created and then messages comes into that topic. Producer is attached with that topic and this producer creates topics whereas Consumer consumes those messages.
 * Consumer will later perform action on those received messages like putting in db etc.
+* AIO Kafka will be used to create Producer (Using Dependency Injection)
+* Code will performed in DEV CONTAINER otherwise we have to update again and again.
+* 
 
