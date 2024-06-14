@@ -109,4 +109,10 @@ https://youtu.be/QkD7gI7bmHU
 ![image](https://github.com/zulfiqaralimir/Zia-Mart/assets/68346772/4510e0de-a2a9-48cd-a6ef-588ee322cca5)
 
 * We will use PROTOBUF to serialize the data. It is speedy as compared to JSON serialized data format.
+* Creating FAST API to to create PRODUCERS and CONSUMERS
+* Product Service will act as Producer
+* The toml file look like
+
+* ![image](https://github.com/zulfiqaralimir/Zia-Mart/assets/68346772/bc34763b-a77a-46d6-937e-a7f9d76c6095)
+
 
