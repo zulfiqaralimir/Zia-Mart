@@ -137,6 +137,7 @@ https://youtu.be/QkD7gI7bmHU
 * Go to GitHub release page. In ASSETS, intall desired one.
 * Copy the Bin folder path and past it into environmental variable
 * RUN on Command
+* ```poetry add protobuf```
 * ```protoc --version```
 * Now We can compile PROTOBUF file into python code.
 * We to be in product_service,for that
@@ -145,5 +146,6 @@ https://youtu.be/QkD7gI7bmHU
 * Now Run
 * ```protoc --python_out=../product.proto```
 
-* 
+* Now in ```main.py```import protobuff
+* Here we will initialize Product Class
 
