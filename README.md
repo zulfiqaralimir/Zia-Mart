@@ -148,4 +148,7 @@ https://youtu.be/QkD7gI7bmHU
 
 * Now in ```main.py```import protobuff
 * Here we will initialize Product Class
+* We will have ```product_pb2.py``` file (protobuf). This file has schema.
+### Consumer
+* 
 
